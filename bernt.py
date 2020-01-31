@@ -1,1 +1,0 @@
-print("I created a new git clone, and it appears to be on the right track.")
